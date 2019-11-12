@@ -112,3 +112,19 @@ site:
       class_: "keywords"
     image_urls:
       name: "a"
+  zingnews:
+    title:
+      name: "h1"
+    authors:
+      name: "li"
+      class_: "the-article-author"
+    text:
+      class_: "the-article-body"
+    pubd:
+      name: "li"
+      class_: "the-article-publish"
+    tags:
+      name: "span"
+      class_: "keywords"
+    image_urls:
+      name: "a"
